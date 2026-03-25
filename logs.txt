@@ -1,0 +1,7 @@
+INFO: Application started
+ERROR: Database connection failed
+Exception: NullPointerException
+WARNING: Retry connection
+ERROR: API timeout
+timeout: request failed
+Exception: IndexOutOfBoundsException
